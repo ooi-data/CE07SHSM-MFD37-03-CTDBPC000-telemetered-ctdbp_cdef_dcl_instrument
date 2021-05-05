@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: CE07SHSM-MFD37-03-CTDBPC000-telemetered-ctdbp_cdef_dcl_instrument
 last_request: '2021-05-04T21:43:23.765822Z'
 response: https://raw.githubusercontent.com/ooi-data/CE07SHSM-MFD37-03-CTDBPC000-telemetered-ctdbp_cdef_dcl_instrument/main/history/response.json
-status: pending
+status: success
