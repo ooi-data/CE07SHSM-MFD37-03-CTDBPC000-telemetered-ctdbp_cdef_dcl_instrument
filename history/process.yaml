@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE07SHSM-MFD37-03-CTDBPC000-telemetered-ctdbp_cdef_dcl_instrument
 data_stream: CE07SHSM-MFD37-03-CTDBPC000-telemetered-ctdbp_cdef_dcl_instrument
-end_date: '2022-01-21T00:30:07.566Z'
-last_updated: '2022-01-21T06:39:18.651926'
+end_date: '2022-01-01T00:30:09.027Z'
+last_updated: '2022-01-22T01:36:37.768383Z'
 start_date: '2015-04-05T19:29:23.883Z'
-status: success
+status: pending
